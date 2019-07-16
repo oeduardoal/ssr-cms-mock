@@ -1,0 +1,23 @@
+{
+  "name": "ssr-cms-mock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch contracts/skus.json -p 3001 -w -d 1000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oeduardoal/ssr-cms-mock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oeduardoal/ssr-cms-mock/issues"
+  },
+  "homepage": "https://github.com/oeduardoal/ssr-cms-mock#readme",
+  "dependencies": {
+    "json-server": "^0.15.0"
+  }
+}

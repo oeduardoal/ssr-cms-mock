@@ -1,0 +1,86 @@
+{
+    "products": [
+        {
+            "idProduto": 7995635,
+            "idSku": 11526496,
+            "nome": "iPhone 7 Apple 256GB, Tela Retina HD de 4,7”, 3D Touch, iOS 11, Touch ID, Câm.12MP, Resistente à Água e Sistema de Alto-falantes Estéreo – Vermelho",
+            "imagens": [
+                {
+                    "IdArquivo": 622909087,
+                    "Nome": "10477682_1xg",
+                    "Largura": 45,
+                    "Altura": 45,
+                    "Url": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=622909087",
+                    "IdArquivoRelacionado": null
+                },
+                {
+                    "IdArquivo": 622909089,
+                    "Nome": "10477682_1xg",
+                    "Largura": 65,
+                    "Altura": 65,
+                    "Url": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=622909089",
+                    "IdArquivoRelacionado": null
+                },
+                {
+                    "IdArquivo": 622909093,
+                    "Nome": "10477682_1xg",
+                    "Largura": 292,
+                    "Altura": 292,
+                    "Url": "http://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=622909093",
+                    "IdArquivoRelacionado": 622909087
+                }
+            ],
+            "precoVenda": {
+                "ValorParcela": 319.9,
+                "NumeroParcelas": 10,
+                "PrecoAnterior": 3799.0,
+                "PrecoVenda": 3199.0,
+                "PrecoVendaSemDesconto": 3199.0
+            },
+            "lojas": [
+                {
+                    "id": "848",
+                    "estoqueCalculado": 10,
+                    "disponivel": 10,
+                    "cnpj": "33041260119641",
+                    "nome": "Casas Bahia - São Caetano do Sul",
+                    "endereco": {
+                        "regiao": "São Paulo",
+                        "municipio": "São Caetano Do Sul",
+                        "rua": "AVENIDA CONDE FRANCISCO MATARAZZO",
+                        "numero": 100,
+                        "bairro": "CENTRO",
+                        "cep": "09520900",
+                        "estado": "SP"
+                    },
+                    "enderecoCompleto": "AVENIDA CONDE FRANCISCO MATARAZZO, 100, CENTRO, São Caetano Do Sul, SP, 09520900",
+                    "informacoesAdicionais": "De Segunda à Sexta das 09:00 as 19:30, aos Sábados das 08:30 as 20:00 e aos Domingos 09:00 as 17:00",
+                    "bandeira": "CasasBahia",
+                    "localizacao": {
+                        "lat": -23.610845,
+                        "lon": -46.571243
+                    },
+                    "atualizacao": "2019-04-12T17:00:14.3835847-03:00",
+                    "flagAtiva": true,
+                    "infoBandeiras": [
+                        {
+                            "idBandeira": 10037,
+                            "tiposRetirada": [
+                                {
+                                    "idEndereco": 312,
+                                    "idLojista": 12815,
+                                    "idTipoPontoRetirada": 1
+                                },
+                                {
+                                    "idEndereco": 848,
+                                    "idLojista": 10037,
+                                    "idTipoPontoRetirada": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
