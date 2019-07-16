@@ -1,0 +1,299 @@
+{
+    "Produto": {
+        "IdProduto": 10946240,
+        "Nome": "Smartphone Motorola Moto G7 Play Índigo XT1952 32GB, Tela de 5,7\", 2GB de RAM, Dual Chip, Android 9.0, Câmera 13MP e Processador Octa-Core",
+        "Categoria": {
+            "IdCategoria": 38,
+            "Nome": "Celulares e Telefones",
+            "NomeReal": "Telefones e Celulares",
+            "Categoria": null
+        },
+        "Marca": {
+            "IdMarca": 356,
+            "Nome": "Motorola",
+            "TextoLink": null,
+            "Texto": "",
+            "PalavraChave": "",
+            "TituloSite": "",
+            "FlagAtiva": true,
+            "Contatos": null,
+            "LinkChat": null,
+            "Telefone": "4002-1244 (capitais e regiões metropolitanas) ou 0800 773 1244 demais localidades\r\n",
+            "EmailSite": "",
+            "ObservacaoSac": "",
+            "FlagExibirContato": true
+        },
+        "Descricao": "",
+        "Skus": [
+            {
+                "IdSku": 14536925,
+                "Nome": "Smartphone Motorola Moto G7 Play Índigo XT1952 32GB, Tela de 5,7\", 2GB de RAM, Dual Chip, Android 9.0, Câmera 13MP e Processador Octa-Core",
+                "NomeCompleto": "Smartphone Motorola Moto G7 Play Índigo XT1952 32GB, Tela de 5,7\", 2GB de RAM, Dual Chip, Android 9.0, Câmera 13MP e Processador Octa-Core",
+                "OrdemExibicao": 0,
+                "IdArquivoThumbnail": 0,
+                "FlagAtiva": true,
+                "Produto": null,
+                "SkuLojistas": [
+                    {
+                        "Eleito": true,
+                        "Lojista": {
+                            "IdLojista": 10037,
+                            "Nome": "Casas Bahia",
+                            "RetiraEmLojaParceiro": false,
+                            "LojistaInternacional": false,
+                            "LojistaGPA": true
+                        },
+                        "PrecoAnterior": 0.0000,
+                        "PrecoVenda": 799.0000,
+                        "Fidelizado": false,
+                        "LojistaGPA": false
+                    }
+                ],
+                "Imagens": [],
+                "Servicos": null,
+                "FichaTecnica": null,
+                "SkuEan": null,
+                "PrecoCusto": 708.7800,
+                "Altura": 15.7000,
+                "Largura": 9.5000,
+                "Comprimento": 5.0000,
+                "Peso": 359.0000
+            }
+        ],
+        "FichaTecnica": [
+            {
+                "IdCampoValorGrupo": 740,
+                "Nome": "Características",
+                "Especificacoes": [
+                    {
+                        "IdCampoValor": 4958,
+                        "Nome": "Tipo",
+                        "Valor": "Barra"
+                    },
+                    {
+                        "IdCampoValor": 4968,
+                        "Nome": "Som ",
+                        "Valor": "Rádio FM"
+                    },
+                    {
+                        "IdCampoValor": 4969,
+                        "Nome": "Som ",
+                        "Valor": "MP3 Player"
+                    },
+                    {
+                        "IdCampoValor": 4982,
+                        "Nome": "Grava vídeo ",
+                        "Valor": "Sim"
+                    },
+                    {
+                        "IdCampoValor": 0,
+                        "Nome": "Slot para cartão ",
+                        "Valor": "MicroSD até 256GB"
+                    },
+                    {
+                        "IdCampoValor": 0,
+                        "Nome": "Cartão incluso ",
+                        "Valor": "Não"
+                    },
+                    {
+                        "IdCampoValor": 4985,
+                        "Nome": "Rádio FM ",
+                        "Valor": "Sim"
+                    },
+                    {
+                        "IdCampoValor": 4987,
+                        "Nome": "MP3 player ",
+                        "Valor": "Sim"
+                    },
+                    {
+                        "IdCampoValor": 4989,
+                        "Nome": "Bluetooth",
+                        "Valor": "Sim"
+                    },
+                    {
+                        "IdCampoValor": 4992,
+                        "Nome": "Bluetooth Estéreo (ouça suas músicas em um dispositivo Bluetooth) ",
+                        "Valor": "Não"
+                    },
+                    {
+                        "IdCampoValor": 4993,
+                        "Nome": "Wi-Fi ",
+                        "Valor": "Sim"
+                    },
+                    {
+                        "IdCampoValor": 5007,
+                        "Nome": "Suporte a GPS ",
+                        "Valor": "Sim"
+                    },
+                    {
+                        "IdCampoValor": 5009,
+                        "Nome": "Mensagens",
+                        "Valor": "SMS"
+                    },
+                    {
+                        "IdCampoValor": 5011,
+                        "Nome": "Mensagens",
+                        "Valor": "MMS"
+                    },
+                    {
+                        "IdCampoValor": 5012,
+                        "Nome": "Mensagens",
+                        "Valor": "E-mail"
+                    },
+                    {
+                        "IdCampoValor": 0,
+                        "Nome": "Sistema Operacional",
+                        "Valor": "Android 9.0 ( Pie )"
+                    },
+                    {
+                        "IdCampoValor": 0,
+                        "Nome": "Processador",
+                        "Valor": "Qualcomm Snapdragon 632 (SDM632) Octa-Core de 1.8 GHz"
+                    },
+                    {
+                        "IdCampoValor": 0,
+                        "Nome": "RAM",
+                        "Valor": "2GB"
+                    },
+                    {
+                        "IdCampoValor": 5016,
+                        "Nome": "Tecnologia ",
+                        "Valor": "GSM"
+                    },
+                    {
+                        "IdCampoValor": 5017,
+                        "Nome": "Tecnologia ",
+                        "Valor": "3G"
+                    },
+                    {
+                        "IdCampoValor": 16435,
+                        "Nome": "Tecnologia ",
+                        "Valor": "4G"
+                    },
+                    {
+                        "IdCampoValor": 0,
+                        "Nome": "Memória interna ",
+                        "Valor": "32GB Total sendo uma parte usada para o sistema operacional e aplicativos pré-instalados"
+                    },
+                    {
+                        "IdCampoValor": 92967,
+                        "Nome": "Cor ",
+                        "Valor": "Azul"
+                    },
+                    {
+                        "IdCampoValor": 0,
+                        "Nome": "Características Gerais",
+                        "Valor": "<strong>Performance que surpreende</strong>\r\n- Moto G7 Play traz o processador Qualcomm Snapdragon 632 Octa-core que é 40% mais rápido que a geração anterior.\r\n\r\n<strong>Ultra tela Max Vision e design compacto</strong>\r\n- Moto G7 Play traz a super tela Max vision de 5.7” HD+ com proporção exclusiva de 19:9 e design compacto que cabe confortavelmente na sua mão.\r\n\r\n<strong>Mais criatividade nas suas fotos</strong>\r\n- Moto G7 play traz recursos de câmera que vão deixar suas imagens extraordinárias como cor em destaque e modo retrato que pode ser usado tanto com a câmera traseira como a frontal.\r\n\r\n<strong>Bateria que acompanha seu dia</strong>\r\n- Com o moto G7 Play você fica tranquilo o dia inteiro* com uma bateria de 3000 mAh.\r\n\r\n<strong>Desbloqueio rápido e fácil</strong>\r\n- Com o Moto G7 Play você não precisa se preocupar com mais uma senha.  Tudo isso ao seu alcance com desbloqueio facial ou um toque no sensor de impressão digital.\r\n\r\n<strong>Exclusivas experiências Moto</strong>\r\n- Moto G7 Play traz recursos exclusivos que deixam seu smartphone mais fácil de usar, incluindo os gestos para ativar a lanterna ou acionar a câmera"
+                    }
+                ]
+            },
+            {
+                "IdCampoValorGrupo": 514,
+                "Nome": "Especificações Técnicas",
+                "Especificacoes": [
+                    {
+                        "IdCampoValor": 0,
+                        "Nome": "Conectividade ",
+                        "Valor": "USB-C, Bluetooth 4.2, Wi-Fi 802.11 a/b/g/n"
+                    },
+                    {
+                        "IdCampoValor": 15942,
+                        "Nome": "Frequências ",
+                        "Valor": "3G 850/900/1900/2100 MHz"
+                    },
+                    {
+                        "IdCampoValor": 5024,
+                        "Nome": "Frequências ",
+                        "Valor": "GSM 850/900/1800/1900 MHz"
+                    },
+                    {
+                        "IdCampoValor": 5018,
+                        "Nome": "Quadriband GSM ",
+                        "Valor": "Sim"
+                    },
+                    {
+                        "IdCampoValor": 0,
+                        "Nome": "Resolução do visor/display (pixels) ",
+                        "Valor": "720 x 1440  HD+  (720 x 1512 incluindo o notch) "
+                    },
+                    {
+                        "IdCampoValor": 0,
+                        "Nome": "Tamanho do visor (cm)",
+                        "Valor": "14,4"
+                    },
+                    {
+                        "IdCampoValor": 45439,
+                        "Nome": "Tipo do Chip",
+                        "Valor": "Nano SIM"
+                    },
+                    {
+                        "IdCampoValor": 97702,
+                        "Nome": "Bateria removível",
+                        "Valor": "Não"
+                    },
+                    {
+                        "IdCampoValor": 0,
+                        "Nome": "Bateria (mAh)",
+                        "Valor": "3000"
+                    },
+                    {
+                        "IdCampoValor": 99303,
+                        "Nome": "Câmera",
+                        "Valor": "Câmera Frontal"
+                    },
+                    {
+                        "IdCampoValor": 32796,
+                        "Nome": "Câmera",
+                        "Valor": "Câmera traseira"
+                    },
+                    {
+                        "IdCampoValor": 0,
+                        "Nome": "Resolução da câmera traseira",
+                        "Valor": "13 MP (Lente 78º - Abertura f/2.0)"
+                    },
+                    {
+                        "IdCampoValor": 0,
+                        "Nome": "Resolução câmera frontal",
+                        "Valor": "8 MP (Lente 81º - Abertura f/2.2)"
+                    },
+                    {
+                        "IdCampoValor": 0,
+                        "Nome": "Observações",
+                        "Valor": "<strong>1.Este é um aparelho desbloqueado e está habilitado para que funcione com operadoras nacionais (Claro, Oi, TIM, Vivo, Porto Seguro Conecta, Sercomtel Celular, Algar Celular), com Tecnologias GSM, 3G e 4G (LTE). Para utilizar este celular é preciso ter um chip (vendido separadamente). \r\n\r\n2.Este é um celular Dual Chip, ou seja, funciona com dois chips no mesmo aparelho.\r\n\r\n3. O armazenamento total indicado, também conhecida como memória ROM, corresponde à capacidade física total (bruta) do circuito de memória existente no dispositivo. O armazenamento interno disponível para o usuário, de maneira similar a outros equipamentos como computadores, é inferior à capacidade física total devido a diversos fatores como formatação (organização da estrutura lógica do componente para uso pelo sistema operacional), espaço ocupado pelo sistema operacional e necessário para funcionamento do smartphone, aplicativos, conteúdos, dados instalados, bem como espaço reservado necessário para atualizações do sistema operacional.\r\n\r\n4. Todas as informações referentes à duração da bateria são aproximadas e se baseiam em um perfil médio padrão de uso misto. O perfil de uso misto se baseia em dispositivos Motorola, com um cartão SIM, nas principais redes 4G LTE com excelente cobertura e inclui tempos de uso e espera. Configurações padrão de fábrica são aplicadas ao perfil misto para estimativa do desempenho debateria. O desempenho real pode variar dependendo de muitos fatores, incluindo intensidade do sinal, configuração da rede, idadeda bateria, temperatura de operação, recursos selecionados, configurações do dispositivo, serviços de voz, dados e outros padrões de uso de aplicativos.\r\n\r\n* A bateria deve estar quase esgotada; a taxa de carregamento diminui à medida que a carga da bateria aumenta.</strong>"
+                    },
+                    {
+                        "IdCampoValor": 9464,
+                        "Nome": "Tensão/Voltagem ",
+                        "Valor": "bivolt"
+                    },
+                    {
+                        "IdCampoValor": 0,
+                        "Nome": "Garantia ",
+                        "Valor": "12 meses"
+                    },
+                    {
+                        "IdCampoValor": 0,
+                        "Nome": "Conteúdo da Embalagem",
+                        "Valor": "- 1 Telefone Motorola Moto G7 Play Índigo XT1952-2\r\n- 1 Kit de manuais \r\n- 1 Cabo de sincronização \r\n- 1 Fone de ouvido\r\n- 1 Carregador de parede\r\n- 1 Ferramenta de remoção do chip"
+                    }
+                ]
+            }
+        ],
+        "Imagens": [],
+        "Videos": [
+            {
+                "IdVideo": 17510,
+                "IdProduto": 10946240,
+                "Nome": "Próprio",
+                "Ordem": 1,
+                "Link": "gXtfVXrOuoI",
+                "Compartilhador": "Youtube"
+            }
+        ],
+        "Canonical": "http://www.casasbahia.com.br/TelefoneseCelulares/smartphone-motorola-moto-g7-play-indigo-xt1952-32gb-tela-de-57-2gb-de-ram-dual-chip-android-9-0-camera-13mp-e-processador-octa-core-14536925.html",
+        "FlagRetiraEmLoja": true
+    },
+    "Valido": true,
+    "Mensagens": [],
+    "Protocolo": "f84a0741-66c6-4d93-8674-ca894dc5631d"
+}

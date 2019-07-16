@@ -1,0 +1,67 @@
+{
+    "Disponibilidades": [
+        {
+            "Lojista": 10037,
+            "Disponivel": true
+        },
+        {
+            "Lojista": 14551,
+            "Disponivel": false
+        },
+        {
+            "Lojista": 24338,
+            "Disponivel": false
+        },
+        {
+            "Lojista": 17253,
+            "Disponivel": false
+        },
+        {
+            "Lojista": 31379,
+            "Disponivel": false
+        },
+        {
+            "Lojista": 26255,
+            "Disponivel": false
+        },
+        {
+            "Lojista": 10138,
+            "Disponivel": false
+        },
+        {
+            "Lojista": 12121,
+            "Disponivel": false
+        },
+        {
+            "Lojista": 14406,
+            "Disponivel": false
+        },
+        {
+            "Lojista": 32232,
+            "Disponivel": false
+        },
+        {
+            "Lojista": 24099,
+            "Disponivel": false
+        },
+        {
+            "Lojista": 12294,
+            "Disponivel": false
+        },
+        {
+            "Lojista": 14665,
+            "Disponivel": false
+        },
+        {
+            "Lojista": 19702,
+            "Disponivel": false
+        },
+        {
+            "Lojista": 32955,
+            "Disponivel": false
+        }
+    ],
+    "Valido": true,
+    "Mensagens": [],
+    "Protocolo": "cb0778d4-7ad2-442b-85be-6e6b397f450e"
+}

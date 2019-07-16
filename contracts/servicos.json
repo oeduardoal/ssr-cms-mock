@@ -1,0 +1,14 @@
+{
+    "IdSku": 0,
+    "IdLojista": null,
+    "Servicos": null,
+    "Valido": false,
+    "Mensagens": [
+        {
+            "Codigo": "",
+            "Conteudo": "Não foi possível enquadrar o sku em planos de serviços.",
+            "Tipo": 2
+        }
+    ],
+    "Protocolo": "39a3572e-67b8-49a6-b212-0217f11cd258"
+}
