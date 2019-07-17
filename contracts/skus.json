@@ -59,108 +59,108 @@
             "precoVenda": {
                 "ValorParcela": 319.9,
                 "NumeroParcelas": 10,
-                "PrecoAnterior": 3799.0,
-                "PrecoVenda": 3199.0,
-                "PrecoVendaSemDesconto": 3199.0,
+                "PrecoAnterior": 3799,
+                "PrecoVenda": 3199,
+                "PrecoVendaSemDesconto": 3199,
                 "OpcoesParcelamento": [
                     {
                         "Tipo": "Outros",
                         "Condicoes": [
                             {
                                 "Opcao": "1x sem juros",
-                                "Preco": 719.10,
+                                "Preco": 719.1,
                                 "QtdParcela": 1,
-                                "ValorMinimoParcela": 0.0000,
-                                "JurosMes": 0.00,
-                                "ValorParcelaAvista": 719.10
+                                "ValorMinimoParcela": 0,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 719.1
                             },
                             {
                                 "Opcao": "2x sem juros",
-                                "Preco": 399.50,
+                                "Preco": 399.5,
                                 "QtdParcela": 2,
-                                "ValorMinimoParcela": 1.0000,
-                                "JurosMes": 0.00,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 1,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "3x sem juros",
                                 "Preco": 266.33,
                                 "QtdParcela": 3,
-                                "ValorMinimoParcela": 1.0000,
-                                "JurosMes": 0.00,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 1,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "4x sem juros",
                                 "Preco": 199.75,
                                 "QtdParcela": 4,
-                                "ValorMinimoParcela": 1.0000,
-                                "JurosMes": 0.00,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 1,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "5x sem juros",
-                                "Preco": 159.80,
+                                "Preco": 159.8,
                                 "QtdParcela": 5,
-                                "ValorMinimoParcela": 1.0000,
-                                "JurosMes": 0.00,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 1,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "6x sem juros",
                                 "Preco": 133.17,
                                 "QtdParcela": 6,
-                                "ValorMinimoParcela": 1.0000,
-                                "JurosMes": 0.00,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 1,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "7x sem juros",
                                 "Preco": 114.14,
                                 "QtdParcela": 7,
-                                "ValorMinimoParcela": 1.0000,
-                                "JurosMes": 0.00,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 1,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "8x sem juros",
                                 "Preco": 99.88,
                                 "QtdParcela": 8,
-                                "ValorMinimoParcela": 1.0000,
-                                "JurosMes": 0.00,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 1,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "9x sem juros",
                                 "Preco": 88.78,
                                 "QtdParcela": 9,
-                                "ValorMinimoParcela": 1.0000,
-                                "JurosMes": 0.00,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 1,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "10x sem juros",
-                                "Preco": 79.90,
+                                "Preco": 79.9,
                                 "QtdParcela": 10,
-                                "ValorMinimoParcela": 1.0000,
-                                "JurosMes": 0.00,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 1,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "11x sem juros",
                                 "Preco": 72.64,
                                 "QtdParcela": 11,
-                                "ValorMinimoParcela": 1.0000,
-                                "JurosMes": 0.00,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 1,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "12x sem juros",
                                 "Preco": 66.58,
                                 "QtdParcela": 12,
-                                "ValorMinimoParcela": 1.0000,
-                                "JurosMes": 0.00,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 1,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             }
                         ]
                     },
@@ -169,99 +169,99 @@
                         "Condicoes": [
                             {
                                 "Opcao": "à vista",
-                                "Preco": 799.00,
+                                "Preco": 799,
                                 "QtdParcela": 1,
-                                "ValorMinimoParcela": 0.0,
-                                "JurosMes": 0.0,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 0,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "2x sem juros",
-                                "Preco": 399.50,
+                                "Preco": 399.5,
                                 "QtdParcela": 2,
-                                "ValorMinimoParcela": 39.0000,
-                                "JurosMes": 0.0000,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 39,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "3x sem juros",
                                 "Preco": 266.33,
                                 "QtdParcela": 3,
-                                "ValorMinimoParcela": 39.0000,
-                                "JurosMes": 0.0000,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 39,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "4x sem juros",
                                 "Preco": 199.75,
                                 "QtdParcela": 4,
-                                "ValorMinimoParcela": 39.0000,
-                                "JurosMes": 0.0000,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 39,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "5x sem juros",
-                                "Preco": 159.80,
+                                "Preco": 159.8,
                                 "QtdParcela": 5,
-                                "ValorMinimoParcela": 39.0000,
-                                "JurosMes": 0.0000,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 39,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "6x sem juros",
                                 "Preco": 133.17,
                                 "QtdParcela": 6,
-                                "ValorMinimoParcela": 39.0000,
-                                "JurosMes": 0.0000,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 39,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "7x sem juros",
                                 "Preco": 114.14,
                                 "QtdParcela": 7,
-                                "ValorMinimoParcela": 39.0000,
-                                "JurosMes": 0.0000,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 39,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "8x sem juros",
                                 "Preco": 99.88,
                                 "QtdParcela": 8,
-                                "ValorMinimoParcela": 39.0000,
-                                "JurosMes": 0.0000,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 39,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "9x sem juros",
                                 "Preco": 88.78,
                                 "QtdParcela": 9,
-                                "ValorMinimoParcela": 39.0000,
-                                "JurosMes": 0.0000,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 39,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "10x sem juros",
-                                "Preco": 79.90,
+                                "Preco": 79.9,
                                 "QtdParcela": 10,
-                                "ValorMinimoParcela": 39.0000,
-                                "JurosMes": 0.0000,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 39,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "11x sem juros",
                                 "Preco": 72.64,
                                 "QtdParcela": 11,
-                                "ValorMinimoParcela": 39.0000,
-                                "JurosMes": 0.0000,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 39,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "12x sem juros",
                                 "Preco": 66.58,
                                 "QtdParcela": 12,
-                                "ValorMinimoParcela": 39.0000,
-                                "JurosMes": 0.0000,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 39,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             }
                         ]
                     },
@@ -270,99 +270,99 @@
                         "Condicoes": [
                             {
                                 "Opcao": "1x sem juros",
-                                "Preco": 719.10,
+                                "Preco": 719.1,
                                 "QtdParcela": 1,
-                                "ValorMinimoParcela": 0.0000,
-                                "JurosMes": 0.00,
-                                "ValorParcelaAvista": 719.10
+                                "ValorMinimoParcela": 0,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 719.1
                             },
                             {
                                 "Opcao": "2x sem juros",
-                                "Preco": 399.50,
+                                "Preco": 399.5,
                                 "QtdParcela": 2,
-                                "ValorMinimoParcela": 1.0000,
-                                "JurosMes": 0.00,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 1,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "3x sem juros",
                                 "Preco": 266.33,
                                 "QtdParcela": 3,
-                                "ValorMinimoParcela": 1.0000,
-                                "JurosMes": 0.00,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 1,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "4x sem juros",
                                 "Preco": 199.75,
                                 "QtdParcela": 4,
-                                "ValorMinimoParcela": 1.0000,
-                                "JurosMes": 0.00,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 1,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "5x sem juros",
-                                "Preco": 159.80,
+                                "Preco": 159.8,
                                 "QtdParcela": 5,
-                                "ValorMinimoParcela": 1.0000,
-                                "JurosMes": 0.00,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 1,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "6x sem juros",
                                 "Preco": 133.17,
                                 "QtdParcela": 6,
-                                "ValorMinimoParcela": 1.0000,
-                                "JurosMes": 0.00,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 1,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "7x sem juros",
                                 "Preco": 114.14,
                                 "QtdParcela": 7,
-                                "ValorMinimoParcela": 1.0000,
-                                "JurosMes": 0.00,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 1,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "8x sem juros",
                                 "Preco": 99.88,
                                 "QtdParcela": 8,
-                                "ValorMinimoParcela": 1.0000,
-                                "JurosMes": 0.00,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 1,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "9x sem juros",
                                 "Preco": 88.78,
                                 "QtdParcela": 9,
-                                "ValorMinimoParcela": 1.0000,
-                                "JurosMes": 0.00,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 1,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "10x sem juros",
-                                "Preco": 79.90,
+                                "Preco": 79.9,
                                 "QtdParcela": 10,
-                                "ValorMinimoParcela": 1.0000,
-                                "JurosMes": 0.00,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 1,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "11x sem juros",
                                 "Preco": 72.64,
                                 "QtdParcela": 11,
-                                "ValorMinimoParcela": 1.0000,
-                                "JurosMes": 0.00,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 1,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             },
                             {
                                 "Opcao": "12x sem juros",
                                 "Preco": 66.58,
                                 "QtdParcela": 12,
-                                "ValorMinimoParcela": 1.0000,
-                                "JurosMes": 0.00,
-                                "ValorParcelaAvista": 0.0
+                                "ValorMinimoParcela": 1,
+                                "JurosMes": 0,
+                                "ValorParcelaAvista": 0
                             }
                         ]
                     }
